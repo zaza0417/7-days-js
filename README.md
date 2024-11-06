@@ -14,7 +14,7 @@ Ao longo de 7 dias, enfrento desafios de programação cuidadosamente elaborados
 
 ## 🌟 Objetivo Pessoal
 
-Meu objetivo é melhorar minhas habilidades com tecnologias front-end e consolidar meus conhecimentos. Ao final do desafio, pretendo ter um projeto visualmente atrativo, funcional e pronto para o mundo!
+Meu objetivo é melhorar minhas habilidades com tecnologias javascript e consolidar meus conhecimentos.
 
 ---
 
