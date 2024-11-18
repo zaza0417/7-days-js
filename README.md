@@ -17,6 +17,15 @@ Ao longo de 7 dias, enfrento desafios de programação cuidadosamente elaborados
 Meu objetivo é melhorar minhas habilidades com tecnologias javascript e consolidar meus conhecimentos.
 
 ---
+## Feito por:
+
+Isac Alves
+<br>
+Fernando Alexandre
+<br>
+Lucas Freitas
+
+---
 
 👀 Quer acompanhar minha evolução? Sinta-se à vontade para explorar os arquivos, sugerir melhorias e acompanhar meu progresso. Qualquer feedback é muito bem-vindo!
 
